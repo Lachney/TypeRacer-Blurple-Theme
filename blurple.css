@@ -1,0 +1,18 @@
+body {
+     height: 100%;
+     color: #999;
+     max-width: 100% !important;
+     background: #111111 !important;
+     font-weight: 400 !important;
+}
+ a {
+     color: #fff !important;
+     text-decoration: none;
+     font-weight: 400 !important;
+}
+ a:hover {
+     background: #7289DA !important 
+}
+ .navHome {
+     background:#99AAB5 !important
+}
