@@ -1,6 +1,6 @@
-# TypeRacer Night Mode
+# TypeRacer - Blurple Theme
 
-A dark theme for TypeRacer's new user interface.
+The Blurple Theme is a Discord branded TypeRacer theme.
 
 ## Install
 
